@@ -3,7 +3,6 @@
  * Nov 14, 2024
  *
  * Authors:
- * YeonJun Lee
  * Wissam Almasri
  */
 
