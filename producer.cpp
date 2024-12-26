@@ -2,7 +2,7 @@
 * Assignment 4
  * Nov 14, 2024
  *
- * Authors:
+ * Author:
  * Wissam Almasri
  */
 
